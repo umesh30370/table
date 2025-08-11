@@ -3,8 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
-"homepage": "https://your-username.github.io/table/",
+  "homepage": "https://umesh30370.github.io/table/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
